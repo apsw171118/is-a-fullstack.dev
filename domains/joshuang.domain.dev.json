@@ -1,0 +1,20 @@
+{
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "joshuang",
+
+    "owner": {
+        "email": "ng_joshua@hotmail.com"
+    },
+
+    "records": {
+        "CNAME": "cname.vercel-dns.com.",
+        "TXT": [
+            {
+                "name": "_vercel",
+                "value": "vc-domain-verify=joshuang.is-a-fullstack.dev,3abde49efeb91b9482ac"
+            }
+        ]
+    },
+
+    "proxied": false
+}
